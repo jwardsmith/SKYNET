@@ -6,7 +6,7 @@ SKYNET is a repository of AI-generated scripts designed to automate and streamli
 
 ## Features
 
-- Automated parsing and analysis of common forensic artifacts (e.g., auth logs, memory dumps)
+- Automated parsing and analysis of common forensic artifacts (e.g., auth logs, packet captures)
 - Reports generation with detailed summaries and colored output for quick insights
 - Extensible collection of scripts written in Bash, Python, PowerShell, and more
 - Tools designed to be modular and integratable into larger DFIR workflows
