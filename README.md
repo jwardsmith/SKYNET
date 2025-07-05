@@ -13,7 +13,7 @@ SKYNET is a repository of AI-generated scripts designed to automate and streamli
 
 ## Project Structure
 
-SKYNET/
+SKYNET
     |- scripts/    # AI-generated scripts for DFIR automation
     |- docs/       # Documentation and usage guides
     |- reports/    # Sample output and analysis reports
