@@ -18,9 +18,13 @@ SKYNET/
 ├── scripts/ # AI-generated scripts for DFIR automation
 <br>
 ├── docs/ # Documentation and usage guides
+<br>
 ├── reports/ # Sample output and analysis reports
+<br>
 ├── tools/ # Helper utilities and reusable components
+<br>
 ├── tests/ # Testing code for scripts and tools
+<br>
 └── README.md
 
 ## Getting Started
